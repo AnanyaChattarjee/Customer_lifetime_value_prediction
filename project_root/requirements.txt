@@ -10,3 +10,4 @@ matplotlib
 kaggle
 seaborn
 openpyxl
+scikit-learn
